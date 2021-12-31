@@ -1,3 +1,5 @@
+package com.min.utils;
+
 import android.os.SystemClock;
 import android.view.View;
 
