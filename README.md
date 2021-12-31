@@ -2,9 +2,9 @@
 ### [ConvertDp](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/ConvertDp.java)
 - px과 db의 사이즈 convert
 ### [ConvertPrice](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/ConvertPrice.java)
-- 소수점(Decimal)으로 단위 표기 1000 -> 1,000
+- 소수점(Decimal)으로 단위 표기 추가 또는 제거 1000 -> 1,000
 ### [ConvertTel](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/ConvertTel.java)
-- 연락처 사이에 "-"를 지우거나 추가 기능
+- 연락처 사이에 "-"를 추가 또는 제거
 ### [DateFormatUtil](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/DateFormatUtil.java)
 - 현재시간 조회, 시간 format 변경 기능
 ### [FormatPass](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/FormatPass.java)
