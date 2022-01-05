@@ -17,3 +17,6 @@
 - 연속 클릭 방지 listener
 ### [PreferenceManager](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/PreferenceManager.java)
 - Preferece 사용이 편리하도록 클래스로 제작
+### [GetAppVersion](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/GetAppVersion.java)
+- 플레이스토어에 등록된 최신 앱 버전을 알려줌
+- 호출 방법 - new GetAppVersion(this).execute(null, null, null);
