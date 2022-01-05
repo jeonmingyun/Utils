@@ -12,10 +12,6 @@ public class PreferenceManager {
     private static final long DEFAULT_VALUE_LONG = -1L;
     private static final float DEFAULT_VALUE_FLOAT = -1F;
 
-    public static final String PREF_KEY_COMPANY_VO = "company_vo";
-    public static final String PREF_KEY_LOGIN_USER_VO = "PREF_KEY_LOGIN_USER_VO";
-    public static final String PREF_KEY_REG_USER_NAME = "PREF_KEY_REG_USER_NAME";
-    public static final String PREF_KEY_REG_USER_PHONE = "PREF_KEY_REG_USER_PHONE";
     public static final String PREF_KEY_APP_VERSION = "PREF_KEY_APP_VERSION";
 
     private static SharedPreferences getPreferences(Context context) {
