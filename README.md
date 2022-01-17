@@ -20,3 +20,5 @@
 ### [GetAppVersion](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/GetAppVersion.java)
 - 플레이스토어에 등록된 최신 앱 버전을 알려줌
 - 호출 방법 - new GetAppVersion(this).execute(null, null, null);
+### [GridSpacingItemDecoration](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/GridSpacingItemDecoration.java)
+- GridLayout item 사이 space를 균일하게 줄수있는 util
