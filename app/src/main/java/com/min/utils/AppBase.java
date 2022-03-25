@@ -1,6 +1,5 @@
 package com.min.utils;
 
-
 import android.app.Application;
 import android.content.Context;
 import android.content.pm.PackageManager.NameNotFoundException;
@@ -9,11 +8,6 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.util.DisplayMetrics;
 import android.view.WindowManager;
-
-import com.android.volley.Request;
-import com.android.volley.RequestQueue;
-import com.android.volley.toolbox.Volley;
-import com.mamp.homeworks.ver2.util.OkHttpStack;
 
 import java.io.ByteArrayOutputStream;
 import java.util.HashMap;
@@ -25,7 +19,6 @@ public class AppBase extends Application {
 
     public static final boolean TEST = false;
 
-    public static final String TAG = App.class.getSimpleName();
     private Map<String, String> stringCache = new HashMap<String, String>();
     private Map<String, Object> objectCache = new HashMap<String, Object>();
 
@@ -33,8 +26,6 @@ public class AppBase extends Application {
     public static final boolean DEBUG_TOAST = true;
 
     public static boolean IS_KMU = true;
-
-    private RequestQueue mRequest;
 
     public static String fileN;
 
