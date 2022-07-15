@@ -24,3 +24,5 @@
 - 호출 방법 - new GetAppVersion(this).execute(null, null, null);
 ### [GridSpacingItemDecoration](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/GridSpacingItemDecoration.java)
 - GridLayout item 사이 space를 균일하게 줄수있는 util
+### [AutoScrollViewPager](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/autoScrollViewPager)
+- Custom ViewPager : 자동 스크롤 기능
