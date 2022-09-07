@@ -27,7 +27,7 @@
 ### [AutoScrollViewPager](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/autoScrollViewPager)
 - Custom ViewPager : 자동 스크롤 기능
 ### [IndentLeadingMarginSpan](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/autoScrollViewPager)
-- 자동 들여쓰기 / <ul><li> 기능
+- 자동 들여쓰기
 - 사용 예시
 ``` kotlin
 textView.text = SpannableStringBuilder(originalText).apply {
