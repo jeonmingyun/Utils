@@ -2,7 +2,7 @@
 ### [GpsTracker](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/GpsTracker.java)
 - get Location
 ### [ConvertDp](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/ConvertDp.java)
-- px과 db의 사이즈 convert
+- px와 dp의 사이즈 convert
 ### [ConvertPrice](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/ConvertPrice.java)
 - 소수점(Decimal)으로 단위 표기 추가 또는 제거 1000 -> 1,000
 ### [ConvertTel](https://github.com/jeonmingyun/Utils/blob/main/app/src/main/java/com/min/utils/ConvertTel.java)
